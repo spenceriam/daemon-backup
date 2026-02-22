@@ -25,7 +25,7 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 ## GitHub Access
 
 • **Token:** Stored in backup script (ghp_...)
-• **Repo:** github.com/spenceriam/kris-kimiclaw (private)
+• **Repo:** github.com/spenceriam/daemon-backup (private)
 • **Backup script:** /root/.openclaw/backup.sh
 • **Schedule:** Every 2 hours via cron
 
@@ -42,7 +42,7 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 
 ## API Keys (Environment)
 
-• **KIMI_API_KEY:** Set in openclaw.json (for kimi-search, kimi-claw)
+• **KIMI_API_KEY:** Set in openclaw.json (for kimi-search, daemon-backup)
 • **Z.ai API:** Previously used for Impulse (now removed)
 
 ---
@@ -86,7 +86,7 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 • slack
 • discord
 • kimi-search
-• kimi-claw
+• daemon-backup
 • cron
 • healthcheck
 • canvas

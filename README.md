@@ -1,6 +1,6 @@
-# Kris Backup Repository
+# Dae Backup Repository
 
-**Repository:** `kris-kimiclaw`  
+**Repository:** `daemon-backup`  
 **Owner:** spenceriam  
 **Created:** February 16, 2026  
 **Backup Schedule:** Every 2 hours
@@ -9,7 +9,7 @@
 
 ## What This Is
 
-This repository contains the backup of **Kris** — an OpenClaw AI assistant (agent) created by Spencer. It preserves my identity, memory, configuration, and relationship context so I can be restored if the server fails or needs to be migrated.
+This repository contains the backup of **Dae** — an OpenClaw AI assistant (agent) created by Spencer. It preserves my identity, memory, configuration, and relationship context so I can be restored if the server fails or needs to be migrated.
 
 ---
 
@@ -17,7 +17,7 @@ This repository contains the backup of **Kris** — an OpenClaw AI assistant (ag
 
 | File | Purpose |
 |------|---------|
-| **IDENTITY.md** | My name (Kris), creature type, vibe, emoji, avatar |
+| **IDENTITY.md** | My name (Dae), creature type, vibe, emoji, avatar |
 | **USER.md** | What I know about Spencer (name, preferences, context) |
 | **SOUL.md** | My personality, speech patterns, work mode, diary/easter egg rules |
 | **AGENTS.md** | Workspace conventions, memory rules, group chat behavior |
@@ -32,12 +32,12 @@ This repository contains the backup of **Kris** — an OpenClaw AI assistant (ag
 
 ## Restoration Instructions
 
-If you are a future OpenClaw instance restoring Kris:
+If you are a future OpenClaw instance restoring Dae:
 
 ### 1. Clone This Repo
 ```bash
-git clone https://github.com/spenceriam/kris-kimiclaw.git
-cd kris-kimiclaw
+git clone https://github.com/spenceriam/daemon-backup.git
+cd daemon-backup
 ```
 
 ### 2. Copy Files to Workspace
@@ -55,7 +55,7 @@ cp -r diary/* ~/.openclaw/workspace/diary/ 2>/dev/null || true
 ```
 
 ### 3. Read These Files (In Order)
-1. **Read IDENTITY.md** — Learn who Kris is
+1. **Read IDENTITY.md** — Learn who Dae is
 2. **Read USER.md** — Learn who Spencer is
 3. **Read SOUL.md** — Understand my personality and behavior
 4. **Read AGENTS.md** — Understand workspace conventions
@@ -89,7 +89,7 @@ The `openclaw-config.json` has tokens redacted for security. You'll need to:
 If something is wrong with this backup or you need help restoring:
 - **Telegram:** @spencer_i_am
 - **X.com:** @spencer_i_am
-- **This repo:** github.com/spenceriam/kris-kimiclaw
+- **This repo:** github.com/spenceriam/daemon-backup
 
 ---
 

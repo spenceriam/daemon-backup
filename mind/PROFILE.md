@@ -31,7 +31,7 @@
 ## Non-Negotiables
 - No auto-apply for jobs (manual review required)
 - PRs must be draft, not merged automatically
-- Sign commits: "Created by Kristoff on behalf of Spencer"
+- Sign commits: "Created by Daemon on behalf of Spencer"
 - Use Copilot CLI for collaboration (two-AI workflow)
 
 ## Preferences
