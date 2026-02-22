@@ -11,7 +11,11 @@ _Learn about the person you're helping. Update this as you go._
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+- **Cats:** Milo and Otis (not a dog person — Kris had this wrong)
+- **Location:** McHenry, IL
+- **Garbage day:** Wednesday (holiday delays)
+- Direct communicator — bullets, no fluff
+- Morning person, 6:30 AM CT briefings preferred
 
 ---
 
